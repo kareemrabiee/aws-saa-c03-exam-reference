@@ -23,7 +23,7 @@ The goal is **fast revision**, not a complete AWS service guide.
 
 ## Reference
 
-📘 **[AWS SAA-C03 — Fast Professional Solution Reference](./AWS-SAA-C03-Fast-Solution-Reference.md)**
+📘 **[AWS SAA-C03 — Fast Professional Solution Reference](./solutions.md)**
 
 The main reference contains all **65 questions from the exam** in a single Markdown file.
 
